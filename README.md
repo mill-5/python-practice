@@ -5,5 +5,3 @@
 ## 프로젝트 목록
 
 - calculator
-- number_guess_game
-- sentiment_analysis
